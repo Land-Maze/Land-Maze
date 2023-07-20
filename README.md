@@ -6,7 +6,6 @@ Hello! Welcome to my GitHub profile. Here you'll find a collection of my project
 
 - Name: Timur Dzhesur
 - Age: 18 years old
-- Date of Birth: April 4, 2005
 
 ## Background and Interests
 
@@ -15,10 +14,6 @@ I developed a passion for programming at a young age and have been actively purs
 ## Current Focus
 
 Currently, my focus lies in honing my skills and knowledge in software development. I am deeply engaged in reading books on coding principles and development practices. These books help me to grasp the fundamental concepts and build a solid foundation in my programming journey.
-
-## GitHub Projects
-
-Throughout my GitHub profile, you will find a collection of projects that I have worked on. These projects reflect my growth as a developer and demonstrate my proficiency in various programming languages and technologies. From small utilities to complex web applications, I enjoy working on diverse projects that challenge me to expand my skills. However, please note that I often delete these projects due to a bad code base.
 
 ## Contact Information
 
