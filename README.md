@@ -2,11 +2,12 @@
 ## About Me
 
 - Name: Timur Dzhesur
-- Age: 18 years old
+- Age: 19 years old
 
 ## Current Focus
 
-- Embedded C
+- Web Development
+- Algorithms
 - Machine Learning
 - Computer Vision
 
@@ -16,4 +17,4 @@ If you have any questions, suggestions, or collaboration opportunities, feel fre
 
 - Email: [timurjes@gmail.com](mailto:timurjes@gmail.com)
 - LinkedIn: [Timur Dzhesur](https://www.linkedin.com/in/land-maze/)
-- Personal Website: [www.landmaze.dev](https://www.landmaze.dev)
+- Personal Website: [blog.landmaze.me](https://blog.landmaze.me)
