@@ -4,13 +4,6 @@
 - Name: Timur Dzhesur
 - Age: 19 years old
 
-## Current Focus
-
-- Web Development
-- Algorithms
-- Machine Learning
-- Computer Vision
-
 ## Contact Information
 
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. I'm always open to connecting with fellow developers and enthusiasts.
